@@ -18,7 +18,7 @@ body {
 #player2_name {
     display: inline-block;
     margin-left: 3px;
-    color: tomato;
+    color: rgb(255, 255, 255);
     font-weight: bold;
 }
 
@@ -74,12 +74,12 @@ input:hover {
 
 #number_1,
 #number_2 {
-    color: tomato;
+    color: rgb(0, 0, 0);
     font-weight: bold;
 }
 
 h4 {
-    color: bisque;
+    color: rgb(0, 0, 0);
     font-family: 'Akaya Kanadaka', cursive;
     width: 100px;
 }
@@ -88,8 +88,8 @@ h4:hover {
     text-decoration: underline;
 }
 
-#player_1_name,
-#player_2_name {
+#player1_name,
+#player2_name {
     display: inline-block;
     margin-left: 3px;
 }
